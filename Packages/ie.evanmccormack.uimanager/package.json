@@ -1,0 +1,7 @@
+{
+    "name" : "ie.evanmccormack.uimanager",
+    "version" : "0.1.0",
+    "displayName" : "UIManager",
+    "description" : "A package that manages the UI for a 2D game",
+    "unity" : "2020.3"
+}
