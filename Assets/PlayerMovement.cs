@@ -2,10 +2,9 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class PlayerController : MonoBehaviour
+public class PlayerMovement : MonoBehaviour
 {
     public Vector2 speed = new Vector2(50, 50);
-
 
     // Update is called once per frame
     void Update()
